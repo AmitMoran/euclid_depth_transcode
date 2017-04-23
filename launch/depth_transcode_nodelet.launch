@@ -1,0 +1,6 @@
+<launch>
+
+  	<node pkg="nodelet" type="nodelet" name="standalone_depth_euclid_nodelet"  args="manager" output="screen"/>
+
+  <node pkg="nodelet" type="nodelet" name="EuclidDepthTranscode" args="load euclid_depth_transcode/EuclidDepthTranscode standalone_depth_euclid_nodelet" output="screen"/>
+</launch>
