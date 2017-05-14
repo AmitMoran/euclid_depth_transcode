@@ -9,6 +9,7 @@ http://wiki.ros.org/EuclidWiki_XXX
 ## Subscribed Topics
 
 16bit raw depth image
+
     camera/depth/image_raw
 
 ## Published Topics
