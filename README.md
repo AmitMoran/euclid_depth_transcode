@@ -2,9 +2,9 @@
 
 This nodelet register to the depth raw msg (TYPE_16UC1) , and transcode message to Type CV_8UC1 for streaming and presenting in wen browser.
 
-http://www.intel.com/Euclid_XXX
+[Intel® Euclid™ Community Site](http://www.euclidcommunity.intel.com).
 
-http://wiki.ros.org/EuclidWiki_XXX
+[Intel® Euclid™ Support Forum](http://www.intel.com/content/www/us/en/support/emerging-technologies/intel-euclid-development-kit.html).
 
 ## Subscribed Topics
 
