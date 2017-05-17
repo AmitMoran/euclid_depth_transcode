@@ -1,4 +1,4 @@
-# Intel&reg; Euclid&trade; Depth transcode sample.
+# Intel&reg; Euclid&trade; Automation Nodes - Depth transcode sample.
 
 This nodelet register to the depth raw msg (TYPE_16UC1) , and transcode message to Type CV_8UC1 for streaming and presenting in wen browser.
 
